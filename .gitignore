@@ -1,1 +1,4 @@
 
+*.asm
+*.gml
+*Status.txt
